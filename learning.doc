@@ -1,0 +1,23 @@
+1 - How to change the color of the app bar 
+--> Add this before returning material app in the main file.
+
+  SystemChrome.setSystemUIOverlayStyle(
+      const SystemUiOverlayStyle(
+        statusBarColor: Colors.transparent,
+      ),
+    );
+
+2 - DefaultTabController
+--> Used to assign tabs to the given child with specific length.
+
+3 - NestedScrollView
+--> Creates a nested scroll view.
+
+4 - SliverToBoxAdapter
+--> It creates a single box widget.
+
+5 - SliverPersistentHeader
+--> Creates a sliver that varies its size when it is scrolled to the start of a viewport.
+
+6 - SliverAppBar
+--> Creates a material design app bar that can be placed in a [CustomScrollView]. It basically provides a beautiful animation in a nested scroll view.
