@@ -5,7 +5,7 @@ Complex design concept of an NFT Application.
 
 ## Application Design
 
-![nft_app_gif](https://user-images.githubusercontent.com/77967955/149086711-0c03e796-3cea-4690-b299-6a76e3047a63.gif)
+https://user-images.githubusercontent.com/77967955/149088334-9f9c4738-ccec-4a78-bf56-1043219fd677.mov
 
 
 ## Design Inspiration
